@@ -18,5 +18,8 @@
     <ClCompile Include="Module1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Syntaxerror1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
